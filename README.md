@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Mihir Jain
+#### Full Stack Software Developer
+![Full Stack Software Developer](https://media.licdn.com/dms/image/C4D16AQEB3uhDwjteTQ/profile-displaybackgroundimage-shrink_350_1400/0/1644004436811?e=1685577600&v=beta&t=dJudqeNuNm4Dm4RyfKMmEpA9XAXhEH1GmJaWw3q3xIk)
 
-<!--
-**jmihir100/jmihir100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience - 1YR
+CSE Undergrad from MAIT
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS / C# / .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this project.
+
+
+
+
